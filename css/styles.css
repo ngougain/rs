@@ -66,6 +66,9 @@ hr {
     right: 20%;
     top: 20px;
 }
+.top-mountain {
+    width: 50%;
+}
 .bottom-cloud {
     position: absolute;
     left: 20%;
