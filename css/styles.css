@@ -6,11 +6,9 @@ body {
 h1 {
     color: #EDE6DB;
     font-family: 'Sacramento', cursive;
-    font-size: 5.625rem; /* 100% = 16px -- 1em = 16px * rem reltive to the root -- em not relative to the root */
+    font-size: 5.625rem;
     margin: 50px auto 0 auto;
     line-height: 1;
-    /* top right bottom left 
-    margin: 0 auto 0 auto;*/
 }
 h2 {
     color: #1D5C63;
@@ -25,7 +23,11 @@ h3 {
 }
 a {
     font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
     text-decoration: none;
+}
+a:hover {
+    color: #EDE6DB;
 }
 p {
     line-height: 2;
@@ -70,12 +72,12 @@ hr {
     bottom: 300px;
 }
 .footer-link {
-    color: #EDE6DB;
+    color: #417D7A;
     margin: 30px;
     
 }
 .footer-link-2 {
-    color: #EDE6DB;
+    color: #417D7A;
     display: block;
 }
 .skill-row {
@@ -121,6 +123,8 @@ hr {
   }
 .footer-p {
     color: #EDE6DB;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
 .footer-ads {
     margin-top: 30px;
@@ -132,15 +136,4 @@ hr {
 .contact-message {
     margin: 40px auto 60px;
     width: 40%;
-}
-/*.pro-skill-desc {
-    clear: left;
-}
-.sec-skill-desc {
-    clear: right;
-}*/
-
-/**** ID SELECTORS ********/
-#cloudi {
-    margin-bottom: 20px;
 }
