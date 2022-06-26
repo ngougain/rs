@@ -113,12 +113,12 @@ hr {
     display: inline-block;
   }
   .btn:hover {
-    background: #30e3cb;
-    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    background: #54BAB9;
+    background-image: -webkit-linear-gradient(top, #54BAB9, #18978F);
+    background-image: -moz-linear-gradient(top, #54BAB9, #18978F);
+    background-image: -ms-linear-gradient(top, #54BAB9, #18978F);
+    background-image: -o-linear-gradient(top, #54BAB9, #18978F);
+    background-image: linear-gradient(to bottom, #54BAB9, #18978F);
     text-decoration: none;
   }
 .footer-p {
